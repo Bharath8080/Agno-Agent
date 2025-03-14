@@ -1,0 +1,7 @@
+streamlit
+phidata
+google-generativeai
+pymupdf 
+python-dotenv
+linkup-sdk
+python-docx
